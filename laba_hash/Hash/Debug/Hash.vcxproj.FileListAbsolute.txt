@@ -1,0 +1,2 @@
+D:\projects\Hash\Debug\Hash.exe
+D:\projects\Hash\Debug\Hash.pdb
